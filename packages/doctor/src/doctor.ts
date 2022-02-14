@@ -3,6 +3,6 @@ export class doctor {
     age: number;
     constructor(){
         this.name = "Doctor Sakina"
-        this.age = 43
+        this.age = 34
     }
 }
