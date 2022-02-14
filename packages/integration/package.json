@@ -1,6 +1,6 @@
 {
   "name": "integration_poc_naister",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "doctor_poc_naister": "^1.0.5",
-    "patient_poc_naister": "^1.0.5",
-    "scheduler_poc_naister": "^1.0.5",
+    "doctor_poc_naister": "^1.0.6",
+    "patient_poc_naister": "^1.0.6",
+    "scheduler_poc_naister": "^1.0.6",
     "ts-node": "^7.0.1"
   },
   "gitHead": "5f5fa56befd5bd043f5e43e771d808723626ab40"
