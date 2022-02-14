@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "doctor": "^1.0.4",
-    "patient": "^1.0.4",
-    "scheduler": "^1.0.4",
+    "doctor_poc_naister": "^1.0.4",
+    "patient_poc_naister": "^1.0.4",
+    "scheduler_poc_naister": "^1.0.4",
     "ts-node": "^7.0.1"
   },
-  "gitHead": "2e22ceda04e31086e7c9466a3aae1bc02e1be2ce"
+  "gitHead": "acf04705fd25ee15c6d8601c43ae080a0dfedc4c"
 }
