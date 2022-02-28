@@ -1,6 +1,6 @@
 {
   "name": "doctor_poc_naister",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "> TODO: description",
   "author": "Sakina D <sa.debiche@gmail.com>",
   "homepage": "",
@@ -22,7 +22,7 @@
   },
   "gitHead": "5f5fa56befd5bd043f5e43e771d808723626ab40",
   "dependencies": {
-    "ci_platform_frontend": "^2.0.0-alpha",
+    "ci_platform_frontend": "^1.0.7",
     "client": "^0.0.1"
   }
 }
