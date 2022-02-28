@@ -1,0 +1,164 @@
+{
+  "setup": {
+    "title": "Naister",
+    "subtitle": "We need some informations such as your website’s URL and datas (products and images)."
+  },
+  "stepName": {
+    "number": "Step 1",
+    "heading": "Please name your project",
+    "label": "project name"
+  },
+  "stepCred": {
+    "number": "Step 2",
+    "heading": "Please, fill in your Google Ads credentials",
+    "label": "Customer ID (xxx-xxx-xxx)"
+  },
+  "stepLim": {
+    "number": "Step 3",
+    "heading": "Do you want to limit Naister's analysis",
+    "labelYes": "Yes, I want to limit the analysis",
+    "labelNo": "No, I don't want to limit Naister"
+  },
+  "stepUrl": {
+    "number": "Step 4",
+    "heading": "Write your website’s URL",
+    "label": "www.mywebsite.com"
+  },
+  "stepSem": {
+    "number": "Step 5",
+    "heading": "Do you want to upload or update your Content (images or product) ?",
+    "labelYes": "Is up to date",
+    "labelNo": "Is not up to date"
+  },
+  "stepDone": {
+    "title": "Confirm",
+    "desc": "As soon as you click on « Send », Naister receive your data. It will take up to 24 hours to be processed. If your informations are correct,please click « Send » or ",
+    "label": "review it",
+    "btn": "Send"
+  },
+  "stepper": [
+    {
+      "title": "Project",
+      "subtitle": "Name your project",
+      "path": "/setup-app/form/name/"
+    },
+    {
+      "title": "Your credentials",
+      "subtitle": "We need your Customer ID",
+      "path": "/setup-app/form/credential/"
+    },
+    {
+      "title": "Limitations",
+      "subtitle": "If you want, you can restrict the analysis ",
+      "path": "/setup-app/form/limitation/"
+    },
+    {
+      "title": "Your website",
+      "subtitle": "We need your URL",
+      "path": "/setup-app/form/url/"
+    },
+    {
+      "title": "Image & Products",
+      "subtitle": "If necessary, you can upload new content",
+      "path": "/setup-app/form/sem/"
+    }
+  ],
+  "login": {
+    "title": "LOG IN",
+    "description": "Connect to your account"
+  },
+  "shared": {
+    "area": "area",
+    "score": "score",
+    "messageScore": "message match score",
+    "actions": "actions",
+    "kwd": "keywords",
+    "conv": "conversions",
+    "conversionsRate": "Conversions Rate",
+    "cpc": "cpc",
+    "clics": "clics",
+    "error": "error",
+    "bounce": "Bounce rate",
+    "messageMatch": "Message match",
+    "variable": "variables",
+    "templateName": "Template name",
+    "pageName": "page name",
+    "tags": "tags",
+    "keywordAds": "Keywords / Ads",
+    "related": "related keywords",
+    "pageInfo": "Page informations",
+    "createVariable": "Create a new variable",
+    "createTemplate": "Create new template",
+    "savedQueries": "Your saved queries",
+    "showCampaign": "Show campaign structure",
+    "createGeneration": "Create a rule or select from the list"
+  },
+  "device": {
+    "desktop": "Desktop"
+  },
+  "modal": {
+    "variableSettings": "Variables settings",
+    "areasSettings": "Areas settings",
+    "areaEdition": "Areas edition",
+    "utmSettings": "UTM & URL settings",
+    "metasSettings": "Metas settings",
+    "preview": "Preview",
+    "available": "Available variables",
+    "textWidth": "width",
+    "textHeight": "height",
+    "textRatio": "ratio",
+    "titleUtm": "UTM",
+    "titleUrl": "URL",
+    "someText": "some text",
+    "customParams": "custom parameter",
+    "productCatalog": "Product catalog source"
+  },
+  "interpreterHeader": {
+    "new": "As new",
+    "erase": "Erase old",
+    "cancel": "Cancel"
+  },
+  "editTemplate": {
+    "media": "Page media plan",
+    "selection": "Selection",
+    "estimations": "Estimastion"
+  },
+  "templateRecap": {
+    "pageTitle": "Verify your informations",
+    "SEAtitle": "SEA Informations",
+    "globalsTitle": "Global rules",
+    "areasTitle": "Areas",
+    "variableTitle": "Variables"
+  },
+  "exploreTitle": "Explore in existing titles",
+  "searchTitle": "Search in existing titles",
+  "generationRules": "Generation rules list",
+  "selectAll": "Select all generated pages",
+  "selectedPages": "Add selected pages to Google Ads",
+  "progress": "progression",
+  "matchQuery": "tags match with this query",
+  "imageQuery": "images with this query",
+  "imageBank": "Image Bank Source",
+  "btn": {
+    "add": "add",
+    "areasText": "Advanced settings",
+    "delete": "delete",
+    "cancel": "cancel",
+    "edit": "edit",
+    "done": "done",
+    "preview": "preview",
+    "dismiss": "dismiss",
+    "publish": "publish",
+    "create": "create",
+    "save": "Save rules",
+    "link": "Link template to keywords",
+    "back": "Back to template list",
+    "checkInformation": "Check your informations",
+    "actionTag": "Add words to create a lexical field",
+    "selectedPages": "Publish selected pages",
+    "backPageMedia": "Back to page media plan",
+    "addFilter": "Add new filter",
+    "saveSearch": "save search"
+  }
+}
+

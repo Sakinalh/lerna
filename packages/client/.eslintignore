@@ -1,0 +1,4 @@
+**/*.test.ts
+**/*.test.tsx
+stories
+src/routes.XXXXXtest.tsx

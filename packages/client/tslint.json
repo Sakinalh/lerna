@@ -1,0 +1,11 @@
+{
+  "linterOptions": {
+    "exclude": [
+      "**/*.js"
+    ],
+    "import/no-cycle": "error",
+    "no-cycle": true
+  },
+
+  "jsRules": { "no-empty": true, "no-unused-variable": false }
+}

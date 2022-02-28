@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <g id="Page-Generation_Queue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page_reco_upload_image" transform="translate(-680.000000, -278.000000)">
+            <g id="Group-7" transform="translate(680.443282, 278.979932)">
+                <g id="Group-5" transform="translate(36.289591, 36.289591) rotate(-11.000000) translate(-36.289591, -36.289591) translate(5.337296, 5.337296)" fill="#DFEBFF">
+                    <rect id="Rectangle" transform="translate(30.952295, 30.952295) rotate(-4.000000) translate(-30.952295, -30.952295) " x="1.9522952" y="1.9522952" width="58" height="58" rx="10"></rect>
+                </g>
+                <g id="Group-5" transform="translate(39.889856, 38.627631) rotate(-9.000000) translate(-39.889856, -38.627631) translate(10.889856, 9.627631)">
+                    <rect id="Rectangle" fill="#657DA4" x="0" y="0" width="58" height="58" rx="10"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="15" cy="15" r="5"></circle>
+                    <path d="M7.35502765,32.0883562 L15.6523373,23.2519504 C17.5425859,21.2388877 20.7068449,21.1393273 22.7199076,23.029576 C22.9064072,23.2046976 23.0791914,23.3938746 23.2367379,23.5954405 L31.4615124,34.1182641 C32.481839,35.4236758 34.3672224,35.654783 35.6726341,34.6344564 C35.8012082,34.5339611 35.9213682,34.4231425 36.031918,34.3031036 L38.1285533,32.0265019 C39.9992376,29.9952458 43.1623853,29.8650766 45.1936414,31.7357609 C45.2826349,31.8177195 45.3686244,31.9028811 45.4514402,31.9910775 L50.6449723,37.522046 C51.515455,38.449086 52,39.6729744 52,40.9446439 L52,49 C52,50.6568542 50.6568542,52 49,52 L9,52 C7.34314575,52 6,50.6568542 6,49 L6,35.5109541 C6,34.2392846 6.48454499,33.0153962 7.35502765,32.0883562 Z" id="Path-2" fill="#FFFFFF" transform="translate(29.000000, 35.500000) scale(-1, 1) translate(-29.000000, -35.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

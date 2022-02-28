@@ -1,0 +1,163 @@
+{
+  "setup": {
+    "title": "Naister",
+    "subtitle": "Nous avons besoin d'informations telles que l'URL et les données de votre site Web (produits et images)."
+  },
+  "stepName": {
+    "number": "Step 1",
+    "heading": "Veuillez nommer votre projet",
+    "label": "Nom du projet"
+  },
+  "stepCred": {
+    "number": "Step 2",
+    "heading": "Veuillez saisir vos informations d'identification Google Ads",
+    "label": "Customer ID (xxx-xxx-xxx)"
+  },
+  "stepLim": {
+    "number": "Step 3",
+    "heading": "Voulez-vous limiter l'analyse de Naister ?",
+    "labelYes": "Oui, je veux limiter l'analyse",
+    "labelNo": "Non, je ne veux pas limiter Naister"
+  },
+  "stepUrl": {
+    "number": "Step 4",
+    "heading": "Écrivez l'URL de votre site Web",
+    "label": "www.mywebsite.com"
+  },
+  "stepSem": {
+    "number": "Step 5",
+    "heading": "Voulez-vous télécharger ou mettre à jour votre contenu (images ou produit)?",
+    "labelYes": "C'est à jour",
+    "labelNo": "Ce n'est pas à jour"
+  },
+  "stepDone": {
+    "title": "Confirm",
+    "desc": "Dès que vous cliquez sur «Envoyer», Naister reçoit vos données. Le traitement prendra jusqu'à 24 heures. Si vos informations sont correctes, veuillez cliquer sur «Envoyer» ou",
+    "label": "review it",
+    "btn": "Envoyer"
+  },
+  "stepper": [
+    {
+      "title": "Projet",
+      "subtitle": "Nommez votre projet",
+      "path": "/setup-app/form/name/"
+    },
+    {
+      "title": "Vos références",
+      "subtitle": "Nous avons besoin de votre Customer ID",
+      "path": "/setup-app/form/credential/"
+    },
+    {
+      "title": "Limites",
+      "subtitle": "Si vous le souhaitez, vous pouvez restreindre l'analyse",
+      "path": "/setup-app/form/limitation/"
+    },
+    {
+      "title": "Votre site web",
+      "subtitle": "Nous avons besoin de votre URL",
+      "path": "/setup-app/form/url/"
+    },
+    {
+      "title": "Image et produits",
+      "subtitle": "Si nécessaire, vous pouvez télécharger de nouveaux contenus",
+      "path": "/setup-app/form/sem/"
+    }
+  ],
+  "login": {
+    "title": "S'identifier",
+    "description": "Se connecter à son tableau de bord"
+  },
+  "shared": {
+    "area": "area",
+    "score": "score",
+    "messageScore": "message match score",
+    "actions": "actions",
+    "kwd": "keywords",
+    "conv": "conversions",
+    "conversionsRate": "Conversions Rate",
+    "cpc": "cpc",
+    "clics": "clics",
+    "bounce": "Bounce rate",
+    "error":"error",
+    "messageMatch": "Correspondance de message",
+    "variable": "variables",
+    "templateName": "Nom du template",
+    "pageName": "Nom de la page",
+    "tags": "tags",
+    "keywordAds": "Keywords / Ads",
+    "related": "mots-clés associés",
+    "pageInfo": "Page informations",
+    "createVariable": "Créer une nouvelle variable",
+    "createTemplate": "Créer un nouveau template",
+    "savedQueries": "Vos requêtes enregistrées",
+    "showCampaign": "Afficher la structure de la campagne",
+    "createGeneration": "Créer une règle ou sélectionnez-la dans la liste"
+  },
+  "device": {
+    "desktop": "Bureau"
+  },
+  "modal": {
+    "variableSettings": "Paramètres des variables",
+    "areasSettings": "Paramètres des zones",
+    "areaEdition": "Edition des zones",
+    "utmSettings": "Paramètres des UTM & URL",
+    "metasSettings": "Paramètres des Metas",
+    "source": "Aperçu",
+    "available": "Variables disponibles",
+    "textWidth": "largeur",
+    "textHeight": "hauteur",
+    "textRatio": "ratio",
+    "titleUtm": "UTM",
+    "titleUrl": "URL",
+    "someText": "some text",
+    "customParams": "paramètre personnalisé",
+    "productCatalog": "Source du catalogue de produits"
+  },
+  "interpreterHeader": {
+    "new": "Nouveau",
+    "erase": "Effacer l'ancien",
+    "cancel": "Annuler"
+  },
+  "editTemplate": {
+    "media": "Plan média de la page",
+    "selection": "Sélection",
+    "estimations": "Estimastion"
+  },
+  "templateRecap": {
+    "pageTitle": "Vérifiez vos informations",
+    "SEAtitle": "SEA Informations",
+    "globalsTitle": "Règles globales",
+    "areasTitle": "Zones",
+    "variableTitle": "Variables"
+  },
+  "exploreTitle": "Explorer dans les titres existants",
+  "searchTitle": "Rechercher dans les titres existants",
+  "generationRules": "Liste des règles de génération",
+  "selectAll": "Sélectionnez toutes les pages générées",
+  "selectedPages": "Ajouter les pages sélectionnées à Google Ads",
+  "progress": "progression",
+  "matchQuery": "tags correspondant à cette requête",
+  "imageQuery": "images avec cette requête",
+  "imageBank": " Source de la banque d'images",
+  "btn": {
+    "add": "add",
+    "areasText": "Réglages avancés",
+    "delete": "effacer",
+    "cancel": "annuler",
+    "edit": "editer",
+    "done": "fini",
+    "preview": "Aperçu",
+    "dismiss": "rejeter",
+    "publish": "publier",
+    "create": "créer",
+    "save": "Enregistrer les règles",
+    "link": "Lier le modèle aux mots-clés",
+    "back": "Retour à la liste des modèles",
+    "checkInformation": "Vérifiez vos informations",
+    "actionTag": "Ajouter des mots pour créer un champ lexical",
+    "selectedPages": "Publier les pages sélectionnées",
+    "backPageMedia": "Retour à la page plan média",
+    "addFilter": "Ajouter un nouveau filtre",
+    "saveSearch": "enregistrer la recherche"
+  }
+}

@@ -20,5 +20,9 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "5f5fa56befd5bd043f5e43e771d808723626ab40"
+  "gitHead": "5f5fa56befd5bd043f5e43e771d808723626ab40",
+  "dependencies": {
+    "ci_platform_frontend": "^2.0.0-alpha",
+    "client": "^0.0.1"
+  }
 }

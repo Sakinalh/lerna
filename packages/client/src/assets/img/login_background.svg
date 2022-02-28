@@ -1,0 +1,21 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="1919.548" height="1081.879"
+     viewBox="0 0 1919.548 1081.879">
+    <defs>
+        <style>.a,.b{opacity:0.5;}.a{fill:url(#a);}.b{fill:url(#b);}</style>
+        <linearGradient id="a" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#397ef5" stop-opacity="0.098"/>
+            <stop offset="0.281" stop-color="#397ef5" stop-opacity="0.149"/>
+            <stop offset="0.709" stop-color="#397ef5" stop-opacity="0.173"/>
+            <stop offset="1" stop-color="#397ef5" stop-opacity="0.204"/>
+        </linearGradient>
+        <linearGradient id="b" y1="1" y2="0" xlink:href="#a"/>
+    </defs>
+    <g transform="translate(-0.086 0)">
+        <path class="a"
+              d="M481.943,1080s18.867-82.2,75.476-162.418,116-116.818,154.729-151.515c118.961-96.3,372.641-426.722-135.062-638.522C452.433,75.543,280.846,30.553,49.4-1.879H-2.914V1080Z"
+              transform="translate(3 1.879)"/>
+        <path class="b"
+              d="M396.777-1.879S377.91,80.31xK7,321.3,160.54s-116,116.818-154.729,151.515c-118.961,96.3-372.641,426.722,135.062,638.522,124.652,52,296.24,96.991,527.682,129.423h52.317V-1.879Z"
+              transform="translate(1038 1.879)"/>
+    </g>
+</svg>

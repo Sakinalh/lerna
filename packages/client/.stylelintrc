@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "stylelint-config-standard"
+  ],
+  "rules": {
+    "no-empty-source": null,
+    "selector-list-comma-newline-after": "never-multi-line",
+    "declaration-empty-line-before": null,
+    "no-missing-end-of-source-newline": null,
+    "function-calc-no-invalid": null,
+    "selector-type-no-unknown": null,
+    "font-family-no-missing-generic-family-keyword": null,
+    "no-eol-whitespace": null,
+    "selector-type-case" : null,
+    "no-descending-specificity" : null,
+    "color-no-hex" : true,
+  }
+}
